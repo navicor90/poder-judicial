@@ -1,0 +1,259 @@
+provincia_id,provincia_nombre,causa_id,caso_id_ministerio_publico,circunscripcion_id,circunscripcion_descripcion,unidad_id,unidad_descripcion,caso_fecha_inicio,causa_fecha_hecho,delito_codigo,delito_descripcion,delito_tentativa,delito_estadistico,fecha_envio
+26,Chubut,267/8806,3/69872,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-01,,200,homicidio simple,NO,Homicidio doloso,2020-02-18
+26,Chubut,266/5043,2/48713,4,Esquel,266,EQ - Oficina Judicial,2020-01-01,,384,portación de arma de fuego sin autorización,NO,Sin clasificar,2020-02-18
+26,Chubut,267/8807,3/69692,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-02,,,,,Sin informar,2020-02-18
+26,Chubut,267/8808,3/69661,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-02,,,,,Sin informar,2020-02-18
+26,Chubut,265/11897,4/102385,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-02,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,265/11898,4/102386,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-02,,1,Investigación para la determinación del delito,NO,Sin informar,2020-02-18
+26,Chubut,265/11899,4/102413,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-02,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,265/11899,4/102413,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-02,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2020-02-18
+26,Chubut,269/8749,1/85892,2,Trelew,269,TW - Oficina Judicial,2020-01-02,,,,,Sin informar,2020-02-18
+26,Chubut,269/8750,1/88663,2,Trelew,269,TW - Oficina Judicial,2020-01-02,,297,violación de domicilio,NO,Violación de domicilio,2020-02-18
+26,Chubut,269/8751,1/88655,2,Trelew,269,TW - Oficina Judicial,2020-01-02,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,267/8809,3/69882,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-03,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,267/8810,3/69888,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-03,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,267/8810,3/69888,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-03,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,267/8810,3/69888,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-03,,297,violación de domicilio,NO,Violación de domicilio,2020-02-18
+26,Chubut,267/8810,3/69888,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-03,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,265/11900,4/102411,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-03,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,265/11900,4/102411,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-03,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2020-02-18
+26,Chubut,265/11901,4/102487,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-03,,201,homicidio calificado,NO,Homicidio doloso,2020-02-18
+26,Chubut,265/11901,4/102487,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-03,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,265/11901,4/102487,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-03,,214,lesiones gravísimas,NO,Lesiones dolosas,2020-02-18
+26,Chubut,265/11902,4/101550,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-03,,,,,Sin informar,2020-02-18
+26,Chubut,265/11903,4/101844,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-03,,,,,Sin informar,2020-02-18
+26,Chubut,266/5044,7/1298,4,Esquel,266,EQ - Oficina Judicial,2020-01-03,,,,,Sin informar,2020-02-18
+26,Chubut,266/5045,2/47844,4,Esquel,266,EQ - Oficina Judicial,2020-01-03,,,,,Sin informar,2020-02-18
+26,Chubut,266/5050,7/1245,4,Esquel,266,EQ - Oficina Judicial,2020-01-03,,,,,Sin informar,2020-02-18
+26,Chubut,269/8752,1/88723,2,Trelew,269,TW - Oficina Judicial,2020-01-03,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,269/8752,1/88723,2,Trelew,269,TW - Oficina Judicial,2020-01-03,,384,portación de arma de fuego sin autorización,NO,Sin clasificar,2020-02-18
+26,Chubut,269/8753,1/88725,2,Trelew,269,TW - Oficina Judicial,2020-01-03,,311,hurto simple,NO,Hurto,2020-02-18
+26,Chubut,305/7242,6/21010,1,Rawson,305,RW - Oficina Judicial,2020-01-04,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,267/8811,3/69912,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-04,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,267/8811,3/69912,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-04,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2020-02-18
+26,Chubut,267/8811,3/69912,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-04,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,267/8811,3/69912,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-04,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,267/8812,3/69913,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-04,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,267/8813,3/69911,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-04,,312,hurto agravado,SI,Hurto,2020-02-18
+26,Chubut,267/8813,3/69911,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-04,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,267/8813,3/69911,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-04,,321,robo agravado,SI,Robo,2020-02-18
+26,Chubut,267/8814,3/69871,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-04,,315,homicidio en ocasión de robo,NO,Homicidio doloso,2020-02-18
+26,Chubut,267/8815,3/69914,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-05,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,265/11904,4/102497,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-06,,311,hurto simple,SI,Hurto,2020-02-18
+26,Chubut,266/5048,7/994,4,Esquel,266,EQ - Oficina Judicial,2020-01-06,,,,,Sin informar,2020-02-18
+26,Chubut,269/8754,1/88765,2,Trelew,269,TW - Oficina Judicial,2020-01-06,,297,violación de domicilio,NO,Violación de domicilio,2020-02-18
+26,Chubut,267/8816,3/69928,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-07,,510,encubrimiento / favorecimiento personal,NO,Encubrimiento,2020-02-18
+26,Chubut,267/8817,3/69927,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-07,,242,abuso sexual simple,NO,Abuso sexual,2020-02-18
+26,Chubut,267/8818,3/69929,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-07,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,265/11905,4/102565,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-07,,311,hurto simple,SI,Hurto,2020-02-18
+26,Chubut,265/11906,4/102574,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-07,,311,hurto simple,NO,Hurto,2020-02-18
+26,Chubut,269/8755,1/88784,2,Trelew,269,TW - Oficina Judicial,2020-01-07,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,269/8756,1/88795,2,Trelew,269,TW - Oficina Judicial,2020-01-07,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,269/8757,1/88829,2,Trelew,269,TW - Oficina Judicial,2020-01-07,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,269/8757,1/88829,2,Trelew,269,TW - Oficina Judicial,2020-01-07,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,269/8761,1/82344,2,Trelew,269,TW - Oficina Judicial,2020-01-08,,,,,Sin informar,2020-02-18
+26,Chubut,305/7243,6/21031,1,Rawson,305,RW - Oficina Judicial,2020-01-08,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,305/7244,6/15350,1,Rawson,305,RW - Oficina Judicial,2020-01-08,,244,abuso sexual con acceso carnal,NO,Abuso sexual,2020-02-18
+26,Chubut,265/11907,4/102559,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-08,,242,abuso sexual simple,NO,Abuso sexual,2020-02-18
+26,Chubut,265/11907,4/102559,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-08,,245,agravantes al abuso sexual simple/ agravado/ con acceso carnal y por aprovechamiento de la inmadurez sexual,NO,Sin clasificar,2020-02-18
+26,Chubut,265/11907,4/102559,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-08,,269,privación ilegal de la libertad,NO,Sin clasificar,2020-02-18
+26,Chubut,265/11908,4/102617,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-08,,1,Investigación para la determinación del delito,NO,Sin informar,2020-02-18
+26,Chubut,265/11909,4/101619,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-08,,,,,Sin informar,2020-02-18
+26,Chubut,268/2145,5/11671,6,Sarmiento,268,SAR - Oficina Judicial,2020-01-08,,512,encubrimiento / receptación de cosas,NO,Encubrimiento,2020-02-18
+26,Chubut,269/8758,1/88863,2,Trelew,269,TW - Oficina Judicial,2020-01-08,,455,atentado a la autoridad / coacción contra el funcionario público,NO,Coacción,2020-02-18
+26,Chubut,269/8759,1/88864,2,Trelew,269,TW - Oficina Judicial,2020-01-08,,242,abuso sexual simple,NO,Abuso sexual,2020-02-18
+26,Chubut,269/8760,1/82821,2,Trelew,269,TW - Oficina Judicial,2020-01-08,,,,,Sin informar,2020-02-18
+26,Chubut,269/8762,1/88898,2,Trelew,269,TW - Oficina Judicial,2020-01-09,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,265/11910,4/102637,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-09,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,265/11911,4/102645,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-09,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,266/5051,2/45209,4,Esquel,266,EQ - Oficina Judicial,2020-01-09,,,,,Sin informar,2020-02-18
+26,Chubut,266/5052,2/48044,4,Esquel,266,EQ - Oficina Judicial,2020-01-09,,,,,Sin informar,2020-02-18
+26,Chubut,266/5053,7/1397,4,Esquel,266,EQ - Oficina Judicial,2020-01-09,,,,,Sin informar,2020-02-18
+26,Chubut,269/8763,1/83328,2,Trelew,269,TW - Oficina Judicial,2020-01-10,,,,,Sin informar,2020-02-18
+26,Chubut,269/8764,1/88964,2,Trelew,269,TW - Oficina Judicial,2020-01-10,,311,hurto simple,NO,Hurto,2020-02-18
+26,Chubut,267/8819,3/69972,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-10,,297,violación de domicilio,NO,Violación de domicilio,2020-02-18
+26,Chubut,267/8820,3/69835,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-10,,208,aborto,SI,Aborto,2020-02-18
+26,Chubut,267/8820,3/69835,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-10,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,267/8820,3/69835,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-10,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,267/8821,3/69915,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-10,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,267/8821,3/69915,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-10,,319,robo en lugar poblado y en banda,NO,Robo,2020-02-18
+26,Chubut,265/11912,4/102662,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-10,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,266/5054,2/48742,4,Esquel,266,EQ - Oficina Judicial,2020-01-10,,384,portación de arma de fuego sin autorización,NO,Sin clasificar,2020-02-18
+26,Chubut,266/5055,2/48748,4,Esquel,266,EQ - Oficina Judicial,2020-01-11,,321,robo agravado,SI,Robo,2020-02-18
+26,Chubut,266/5056,2/48747,4,Esquel,266,EQ - Oficina Judicial,2020-01-11,,297,violación de domicilio,NO,Violación de domicilio,2020-02-18
+26,Chubut,269/8765,1/88975,2,Trelew,269,TW - Oficina Judicial,2020-01-12,,311,hurto simple,NO,Hurto,2020-02-18
+26,Chubut,269/8766,1/88971,2,Trelew,269,TW - Oficina Judicial,2020-01-12,,319,robo en lugar poblado y en banda,NO,Robo,2020-02-18
+26,Chubut,269/8767,1/88972,2,Trelew,269,TW - Oficina Judicial,2020-01-12,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,269/8768,1/88974,2,Trelew,269,TW - Oficina Judicial,2020-01-12,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,269/8769,1/88973,2,Trelew,269,TW - Oficina Judicial,2020-01-12,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,269/8770,1/88976,2,Trelew,269,TW - Oficina Judicial,2020-01-12,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,269/8770,1/88976,2,Trelew,269,TW - Oficina Judicial,2020-01-12,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2020-02-18
+26,Chubut,269/8770,1/88976,2,Trelew,269,TW - Oficina Judicial,2020-01-12,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,269/8771,1/88977,2,Trelew,269,TW - Oficina Judicial,2020-01-12,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,269/8772,1/88979,2,Trelew,269,TW - Oficina Judicial,2020-01-12,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,269/8773,1/88978,2,Trelew,269,TW - Oficina Judicial,2020-01-12,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,265/11913,4/102673,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-12,,213,lesiones graves,NO,Lesiones dolosas,2020-02-18
+26,Chubut,265/11913,4/102673,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-12,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,265/11914,4/102672,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-12,,1,Investigación para la determinación del delito,NO,Sin informar,2020-02-18
+26,Chubut,305/7245,6/21045,1,Rawson,305,RW - Oficina Judicial,2020-01-13,,244,abuso sexual con acceso carnal,NO,Abuso sexual,2020-02-18
+26,Chubut,267/8822,3/69987,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-13,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,267/8823,3/69988,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-13,,317,"robo con armas, o en despoblado y en banda",SI,Robo,2020-02-18
+26,Chubut,265/11915,4/102675,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-13,,311,hurto simple,SI,Hurto,2020-02-18
+26,Chubut,265/11916,4/102676,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-13,,297,violación de domicilio,NO,Violación de domicilio,2020-02-18
+26,Chubut,265/11917,4/102677,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-13,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,265/11917,4/102677,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-13,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2020-02-18
+26,Chubut,265/11917,4/102677,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-13,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,265/11917,4/102677,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-13,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,265/11918,4/101515,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-13,,200,homicidio simple,NO,Homicidio doloso,2020-02-18
+26,Chubut,265/11919,4/102698,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-13,,370,daño agravado,NO,Daños,2020-02-18
+26,Chubut,265/11919,4/102698,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-13,,455,atentado a la autoridad / coacción contra el funcionario público,NO,Coacción,2020-02-18
+26,Chubut,269/8774,1/89040,2,Trelew,269,TW - Oficina Judicial,2020-01-14,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,269/8775,1/89041,2,Trelew,269,TW - Oficina Judicial,2020-01-14,,383,tenencia de arma de fuego sin autorización,NO,Sin clasificar,2020-02-18
+26,Chubut,265/11920,4/102708,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-14,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,265/11920,4/102708,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-14,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,265/11921,4/100445,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-14,,,,,Sin informar,2020-02-18
+26,Chubut,265/11922,4/100546,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-14,,,,,Sin informar,2020-02-18
+26,Chubut,265/11923,4/101136,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-14,,,,,Sin informar,2020-02-18
+26,Chubut,265/11924,4/97537,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-14,,,,,Sin informar,2020-02-18
+26,Chubut,265/11925,4/98712,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-14,,,,,Sin informar,2020-02-18
+26,Chubut,265/11926,4/100819,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-14,,,,,Sin informar,2020-02-18
+26,Chubut,266/5057,7/1464,4,Esquel,266,EQ - Oficina Judicial,2020-01-14,,,,,Sin informar,2020-02-18
+26,Chubut,266/5058,7/1222,4,Esquel,266,EQ - Oficina Judicial,2020-01-14,,,,,Sin informar,2020-02-18
+26,Chubut,266/5059,7/1612,4,Esquel,266,EQ - Oficina Judicial,2020-01-14,,,,,Sin informar,2020-02-18
+26,Chubut,269/8776,1/89050,2,Trelew,269,TW - Oficina Judicial,2020-01-15,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,269/8777,1/89063,2,Trelew,269,TW - Oficina Judicial,2020-01-15,,455,atentado a la autoridad / coacción contra el funcionario público,NO,Coacción,2020-02-18
+26,Chubut,305/7246,6/21070,1,Rawson,305,RW - Oficina Judicial,2020-01-15,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,267/8824,3/70004,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-15,,227,abuso de armas / disparo de arma de fuego,NO,Abuso de arma,2020-02-18
+26,Chubut,267/8824,3/70004,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-15,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,268/2146,5/11044,6,Sarmiento,268,SAR - Oficina Judicial,2020-01-15,,,,,Sin informar,2020-02-18
+26,Chubut,269/8778,1/89088,2,Trelew,269,TW - Oficina Judicial,2020-01-16,,312,hurto agravado,NO,Hurto,2020-02-18
+26,Chubut,269/8779,1/88356,2,Trelew,269,TW - Oficina Judicial,2020-01-16,,,,,Sin informar,2020-02-18
+26,Chubut,267/8825,3/70085,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-16,,319,robo en lugar poblado y en banda,NO,Robo,2020-02-18
+26,Chubut,266/5060,2/48789,4,Esquel,266,EQ - Oficina Judicial,2020-01-16,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,269/8780,1/89117,2,Trelew,269,TW - Oficina Judicial,2020-01-17,,200,homicidio simple,SI,Homicidio doloso,2020-02-18
+26,Chubut,267/8826,3/70105,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-17,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,267/8826,3/70105,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-17,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,265/11927,4/102831,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-17,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,265/11927,4/102831,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-17,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,265/11928,4/102832,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-17,,311,hurto simple,SI,Hurto,2020-02-18
+26,Chubut,265/11929,4/102852,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-17,,1,Investigación para la determinación del delito,NO,Sin informar,2020-02-18
+26,Chubut,268/2147,5/11699,6,Sarmiento,268,SAR - Oficina Judicial,2020-01-17,,384,portación de arma de fuego sin autorización,NO,Sin clasificar,2020-02-18
+26,Chubut,268/2148,5/11700,6,Sarmiento,268,SAR - Oficina Judicial,2020-01-17,,311,hurto simple,NO,Hurto,2020-02-18
+26,Chubut,269/8781,1/89127,2,Trelew,269,TW - Oficina Judicial,2020-01-18,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,269/8782,1/89128,2,Trelew,269,TW - Oficina Judicial,2020-01-18,,311,hurto simple,SI,Hurto,2020-02-18
+26,Chubut,269/8783,1/89129,2,Trelew,269,TW - Oficina Judicial,2020-01-18,,217,lesiones culposas,NO,Lesiones culposas,2020-02-18
+26,Chubut,269/8783,1/89129,2,Trelew,269,TW - Oficina Judicial,2020-01-18,,297,violación de domicilio,NO,Violación de domicilio,2020-02-18
+26,Chubut,269/8783,1/89129,2,Trelew,269,TW - Oficina Judicial,2020-01-18,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,269/8783,1/89129,2,Trelew,269,TW - Oficina Judicial,2020-01-18,,455,atentado a la autoridad / coacción contra el funcionario público,NO,Coacción,2020-02-18
+26,Chubut,265/11930,4/102860,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-18,,384,portación de arma de fuego sin autorización,NO,Sin clasificar,2020-02-18
+26,Chubut,265/11931,4/102859,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-18,,1,Investigación para la determinación del delito,NO,Sin informar,2020-02-18
+26,Chubut,265/11931,4/102859,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-18,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,267/8827,3/70118,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-19,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,267/8828,3/70119,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-19,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,268/2149,5/11703,6,Sarmiento,268,SAR - Oficina Judicial,2020-01-19,,297,violación de domicilio,NO,Violación de domicilio,2020-02-18
+26,Chubut,269/8784,1/89153,2,Trelew,269,TW - Oficina Judicial,2020-01-20,,313,"hurto agravad por calidad del autor (fuerza de seguridad, policial o servicio penitenciario)",SI,Hurto,2020-02-18
+26,Chubut,269/8785,1/89158,2,Trelew,269,TW - Oficina Judicial,2020-01-20,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,269/8786,1/89145,2,Trelew,269,TW - Oficina Judicial,2020-01-20,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,267/8829,3/69255,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-20,,244,abuso sexual con acceso carnal,NO,Abuso sexual,2020-02-18
+26,Chubut,267/8829,3/69255,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-20,,245,agravantes al abuso sexual simple/ agravado/ con acceso carnal y por aprovechamiento de la inmadurez sexual,NO,Sin clasificar,2020-02-18
+26,Chubut,267/8830,3/70115,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-20,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,267/8831,3/70116,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-20,,244,abuso sexual con acceso carnal,NO,Abuso sexual,2020-02-18
+26,Chubut,265/11932,4/102876,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-20,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,265/11933,4/102862,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-20,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,266/5061,7/1665,4,Esquel,266,EQ - Oficina Judicial,2020-01-20,,207,homicidio culposo,NO,Homicidio culposo,2020-02-18
+26,Chubut,266/5062,2/48809,4,Esquel,266,EQ - Oficina Judicial,2020-01-20,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,267/8832,3/70150,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-21,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,265/11934,4/102906,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-21,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,265/11934,4/102906,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-21,,510,encubrimiento / favorecimiento personal,NO,Encubrimiento,2020-02-18
+26,Chubut,269/8787,1/89203,2,Trelew,269,TW - Oficina Judicial,2020-01-22,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,269/8787,1/89203,2,Trelew,269,TW - Oficina Judicial,2020-01-22,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,269/8788,1/89202,2,Trelew,269,TW - Oficina Judicial,2020-01-22,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,269/8789,1/89209,2,Trelew,269,TW - Oficina Judicial,2020-01-22,,311,hurto simple,NO,Hurto,2020-02-18
+26,Chubut,305/7247,6/20933,1,Rawson,305,RW - Oficina Judicial,2020-01-22,,,,,Sin informar,2020-02-18
+26,Chubut,267/8833,3/70165,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-22,,311,hurto simple,SI,Hurto,2020-02-18
+26,Chubut,265/11935,4/102935,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-22,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,265/11935,4/102935,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-22,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,265/11936,4/102934,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-22,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,266/5063,7/1294,4,Esquel,266,EQ - Oficina Judicial,2020-01-22,,,,,Sin informar,2020-02-18
+26,Chubut,266/5064,2/46420,4,Esquel,266,EQ - Oficina Judicial,2020-01-22,,,,,Sin informar,2020-02-18
+26,Chubut,269/8790,1/89229,2,Trelew,269,TW - Oficina Judicial,2020-01-23,,311,hurto simple,SI,Hurto,2020-02-18
+26,Chubut,269/8791,1/89188,2,Trelew,269,TW - Oficina Judicial,2020-01-23,,245,agravantes al abuso sexual simple/ agravado/ con acceso carnal y por aprovechamiento de la inmadurez sexual,NO,Sin clasificar,2020-02-18
+26,Chubut,269/8792,1/89234,2,Trelew,269,TW - Oficina Judicial,2020-01-23,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,269/8792,1/89234,2,Trelew,269,TW - Oficina Judicial,2020-01-23,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,305/7248,6/20374,1,Rawson,305,RW - Oficina Judicial,2020-01-23,,,,,Sin informar,2020-02-18
+26,Chubut,265/11937,4/102992,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-23,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,265/11937,4/102992,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-23,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,265/11938,4/102989,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-23,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,265/11938,4/102989,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-23,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,269/8793,1/89253,2,Trelew,269,TW - Oficina Judicial,2020-01-24,,311,hurto simple,NO,Hurto,2020-02-18
+26,Chubut,265/11939,4/97191,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-24,,,,,Sin informar,2020-02-18
+26,Chubut,265/11940,4/101348,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-24,,,,,Sin informar,2020-02-18
+26,Chubut,265/11941,4/103018,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-24,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,265/11942,4/94576,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-24,,,,,Sin informar,2020-02-18
+26,Chubut,269/8794,1/89269,2,Trelew,269,TW - Oficina Judicial,2020-01-25,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,269/8795,1/89270,2,Trelew,269,TW - Oficina Judicial,2020-01-25,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,269/8795,1/89270,2,Trelew,269,TW - Oficina Judicial,2020-01-25,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,266/5065,2/48847,4,Esquel,266,EQ - Oficina Judicial,2020-01-25,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,266/5065,2/48847,4,Esquel,266,EQ - Oficina Judicial,2020-01-25,,321,robo agravado,NO,Robo,2020-02-18
+26,Chubut,265/11943,4/103037,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-26,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,265/11944,4/103038,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-26,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,266/5066,2/48851,4,Esquel,266,EQ - Oficina Judicial,2020-01-26,,311,hurto simple,NO,Hurto,2020-02-18
+26,Chubut,269/8796,1/89285,2,Trelew,269,TW - Oficina Judicial,2020-01-27,,227,abuso de armas / disparo de arma de fuego,NO,Abuso de arma,2020-02-18
+26,Chubut,269/8796,1/89285,2,Trelew,269,TW - Oficina Judicial,2020-01-27,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,269/8796,1/89285,2,Trelew,269,TW - Oficina Judicial,2020-01-27,,384,portación de arma de fuego sin autorización,NO,Sin clasificar,2020-02-18
+26,Chubut,269/8797,1/89288,2,Trelew,269,TW - Oficina Judicial,2020-01-27,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,267/8834,3/70204,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,297,violación de domicilio,NO,Violación de domicilio,2020-02-18
+26,Chubut,267/8834,3/70204,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,267/8835,3/70205,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,217,lesiones culposas,NO,Lesiones culposas,2020-02-18
+26,Chubut,267/8835,3/70205,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,370,daño agravado,NO,Daños,2020-02-18
+26,Chubut,267/8836,3/70208,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,267/8836,3/70208,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,267/8836,3/70208,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,267/8836,3/70208,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,267/8837,3/70209,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,267/8838,3/70187,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,296,agravantes de la coacción,NO,Coacción,2020-02-18
+26,Chubut,267/8838,3/70187,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,297,violación de domicilio,NO,Violación de domicilio,2020-02-18
+26,Chubut,267/8838,3/70187,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-27,,455,atentado a la autoridad / coacción contra el funcionario público,NO,Coacción,2020-02-18
+26,Chubut,265/11945,4/103048,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-27,,455,atentado a la autoridad / coacción contra el funcionario público,NO,Coacción,2020-02-18
+26,Chubut,265/11945,4/103048,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-27,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,265/11946,4/103045,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-27,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,265/11947,4/103044,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-27,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,265/11948,4/103050,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-27,,319,robo en lugar poblado y en banda,SI,Robo,2020-02-18
+26,Chubut,268/2150,5/11726,6,Sarmiento,268,SAR - Oficina Judicial,2020-01-27,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,268/2150,5/11726,6,Sarmiento,268,SAR - Oficina Judicial,2020-01-27,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,268/2151,5/11728,6,Sarmiento,268,SAR - Oficina Judicial,2020-01-27,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,269/8798,1/80429,2,Trelew,269,TW - Oficina Judicial,2020-01-28,,,,,Sin informar,2020-02-18
+26,Chubut,269/8799,1/89322,2,Trelew,269,TW - Oficina Judicial,2020-01-28,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,305/7249,6/20982,1,Rawson,305,RW - Oficina Judicial,2020-01-28,,,,,Sin informar,2020-02-18
+26,Chubut,267/8839,3/70219,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-28,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2020-02-18
+26,Chubut,267/8840,3/70217,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-28,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,265/11949,4/103081,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-28,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,265/11950,4/103080,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-28,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,266/5067,2/46814,4,Esquel,266,EQ - Oficina Judicial,2020-01-28,,,,,Sin informar,2020-02-18
+26,Chubut,268/2152,5/11727,6,Sarmiento,268,SAR - Oficina Judicial,2020-01-28,,312,hurto agravado,NO,Hurto,2020-02-18
+26,Chubut,268/2152,5/11727,6,Sarmiento,268,SAR - Oficina Judicial,2020-01-28,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,268/2152,5/11727,6,Sarmiento,268,SAR - Oficina Judicial,2020-01-28,,321,robo agravado,NO,Robo,2020-02-18
+26,Chubut,269/8800,1/89354,2,Trelew,269,TW - Oficina Judicial,2020-01-29,,384,portación de arma de fuego sin autorización,NO,Sin clasificar,2020-02-18
+26,Chubut,267/8841,3/70222,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-29,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,267/8841,3/70222,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-29,,383,tenencia de arma de fuego sin autorización,NO,Sin clasificar,2020-02-18
+26,Chubut,267/8842,3/70250,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-29,,297,violación de domicilio,NO,Violación de domicilio,2020-02-18
+26,Chubut,267/8843,3/70254,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-29,,455,atentado a la autoridad / coacción contra el funcionario público,NO,Coacción,2020-02-18
+26,Chubut,267/8843,3/70254,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-29,,456,atentado a la autoridad agravado / coacción contra el funcionario público agravada,NO,Coacción,2020-02-18
+26,Chubut,265/11951,4/100290,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-29,,,,,Sin informar,2020-02-18
+26,Chubut,265/11952,4/103104,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-29,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,269/8801,1/89385,2,Trelew,269,TW - Oficina Judicial,2020-01-30,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,267/8844,3/70283,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-30,,311,hurto simple,NO,Hurto,2020-02-18
+26,Chubut,265/11953,4/103132,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-30,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,265/11954,4/103133,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-30,,314,robo simple,SI,Robo,2020-02-18
+26,Chubut,265/11955,4/103138,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-30,,312,hurto agravado,SI,Hurto,2020-02-18
+26,Chubut,265/11956,4/101873,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-30,,200,homicidio simple,SI,Homicidio doloso,2020-02-18
+26,Chubut,266/5068,2/48868,4,Esquel,266,EQ - Oficina Judicial,2020-01-30,,321,robo agravado,NO,Robo,2020-02-18
+26,Chubut,267/8845,3/70284,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-31,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2020-02-18
+26,Chubut,267/8846,3/70727,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-31,,200,homicidio simple,SI,Homicidio doloso,2020-02-18
+26,Chubut,267/8846,3/70727,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-31,,270,privación ilegal de la libertad agravada,NO,Sin clasificar,2020-02-18
+26,Chubut,267/8846,3/70727,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-31,,314,robo simple,NO,Robo,2020-02-18
+26,Chubut,267/8847,3/70298,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-31,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2020-02-18
+26,Chubut,267/8847,3/70298,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-31,,294,amenazas simples /agravadas,NO,Amenazas,2020-02-18
+26,Chubut,267/8847,3/70298,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-31,,369,daño simple / sabotaje informático,NO,Daños,2020-02-18
+26,Chubut,267/8847,3/70298,3,Puerto Madryn,267,PM - Oficina Judicial,2020-01-31,,381,fabricación o tenencia de bombas y materiales peligrosos,NO,Sin clasificar,2020-02-18
+26,Chubut,265/11957,4/103163,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2020-01-31,,311,hurto simple,NO,Hurto,2020-02-18
